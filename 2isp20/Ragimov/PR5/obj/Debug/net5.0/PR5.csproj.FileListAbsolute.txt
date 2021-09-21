@@ -1,0 +1,16 @@
+C:\Users\Админ\source\repos\2isp20\Ragimov\PR5\bin\Debug\net5.0\PR5.exe
+C:\Users\Админ\source\repos\2isp20\Ragimov\PR5\bin\Debug\net5.0\PR5.deps.json
+C:\Users\Админ\source\repos\2isp20\Ragimov\PR5\bin\Debug\net5.0\PR5.runtimeconfig.json
+C:\Users\Админ\source\repos\2isp20\Ragimov\PR5\bin\Debug\net5.0\PR5.runtimeconfig.dev.json
+C:\Users\Админ\source\repos\2isp20\Ragimov\PR5\bin\Debug\net5.0\PR5.dll
+C:\Users\Админ\source\repos\2isp20\Ragimov\PR5\bin\Debug\net5.0\ref\PR5.dll
+C:\Users\Админ\source\repos\2isp20\Ragimov\PR5\bin\Debug\net5.0\PR5.pdb
+C:\Users\Админ\source\repos\2isp20\Ragimov\PR5\obj\Debug\net5.0\PR5.csprojAssemblyReference.cache
+C:\Users\Админ\source\repos\2isp20\Ragimov\PR5\obj\Debug\net5.0\PR5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\source\repos\2isp20\Ragimov\PR5\obj\Debug\net5.0\PR5.AssemblyInfoInputs.cache
+C:\Users\Админ\source\repos\2isp20\Ragimov\PR5\obj\Debug\net5.0\PR5.AssemblyInfo.cs
+C:\Users\Админ\source\repos\2isp20\Ragimov\PR5\obj\Debug\net5.0\PR5.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\2isp20\Ragimov\PR5\obj\Debug\net5.0\PR5.dll
+C:\Users\Админ\source\repos\2isp20\Ragimov\PR5\obj\Debug\net5.0\ref\PR5.dll
+C:\Users\Админ\source\repos\2isp20\Ragimov\PR5\obj\Debug\net5.0\PR5.pdb
+C:\Users\Админ\source\repos\2isp20\Ragimov\PR5\obj\Debug\net5.0\PR5.genruntimeconfig.cache
